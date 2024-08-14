@@ -1,0 +1,1 @@
+grep -w "POST.*404" access.log 
